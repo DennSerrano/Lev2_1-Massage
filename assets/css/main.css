@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+main form {
+  text-align: center;
+  margin: 20vh 0;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 80vw;
+}
+main form div label {
+  font-size: 10vh;
+}
+main form input {
+  padding: 2vh 15vw;
+  margin: 3vh 0;
+}
+main form div input {
+  padding: 1.5vh 10vw;
+}
+main form .textNone {
+  color: red;
+}
+main form p {
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=main.css.map */
